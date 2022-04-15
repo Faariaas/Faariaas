@@ -1,4 +1,4 @@
-### Olá!!! Eu sou Gbariel Farias 👋
+### Olá!!! Eu sou Gabriel Farias 👋
 
 <!--
 **GabrielFsan/GabrielFsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
