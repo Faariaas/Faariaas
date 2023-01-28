@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <br>
   
   <h3 align="left">Você pode me encontrar por aqui:</h3>
+  
 <div>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_faariaas_/)
   <!-- SEPARAÇÃO MUITO LINDA -->
