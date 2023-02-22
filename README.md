@@ -1,7 +1,7 @@
 ### Hi!!! I'm Gabriel Farias 👋
 
 <!--
-**Faariaas/Faruaias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Faariaas/Faariaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
