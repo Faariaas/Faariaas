@@ -1,7 +1,7 @@
 ### Hi!!! I'm Gabriel Farias 👋
 
 <!--
-**GabrielFsan/GabrielFsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Faariaas/Faariaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/GabrielFsan/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFsan&show_icons=false&theme=dracula&title_color=1DE0BC&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Faariaas&show_icons=false&theme=dracula&title_color=1DE0BC&include_all_commits=true&count_private=true"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFsan&layout=compact&langs_count=7&theme=dracula&title_color=1DE0BC"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faariaas&layout=compact&langs_count=7&theme=dracula&title_color=1DE0BC"/>
 
   <br>
   
